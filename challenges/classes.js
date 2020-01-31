@@ -49,3 +49,18 @@ class CubeMaker extends CuboidMaker {
 
   console.log(cubeMaker.volume());
   console.log(cubeMaker.surfaceArea());
+
+//~~~~~~~~~~~~~~~~~~~
+// 1. Describe the biggest difference between `.forEach` & `.map`.
+// that forEach allows the mutation of the original array, while Map returns a new array of the same size. 
+// 2. What is the difference between a function and a method?
+// A function is a piece of code that is called by name.  A method is a piece of code that is called by a name that is associated with an object
+// 3. What is closure?
+// combination of a function bundled together refrencing to its surrounding
+// 4. Describe the four rules of the 'this' keyword.
+// 1)Window/Global Object Binding
+// 2)Implicit Binding
+// 3)New Binding
+// 4)Explicit Binding
+// 5. Why do we need super() in an extended class?
+// It takes the place of a call function.
